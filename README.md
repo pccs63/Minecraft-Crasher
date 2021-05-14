@@ -7,6 +7,8 @@ Make sure python is installed.
 
 git clone https://github.com/pccs63/Minecraft-Crasher
 
+cd Minecraft-Crasher
+
 pip3 install pysocks
 
 Make sure there is a Socks4 proxy list in the same directory called "working.txt"
